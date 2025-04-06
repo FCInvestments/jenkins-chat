@@ -1,3 +1,6 @@
+console.log("🔔 Jenkins bot triggered by incoming SMS");
+
+
 // pages/api/jenkins.js
 
 let sessions = {};
